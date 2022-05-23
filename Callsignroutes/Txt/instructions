@@ -1,0 +1,23 @@
+Dans le fichier routes.tsv:
+    1.Prendre CallSign et Operator_ICAO de la table callsignroutes
+    2.Prendre FromAirport_ICAO pour prendre toutes les données de airports
+    3.Prendre ToAirport_ICAO pour prendre toutes les données de airports
+    4.Insérer le tout dans callsignroutes
+
+routeicao = FromAirport_ICAO+"-"+ToAirport_ICAO
+routeiata = fromiata+"-"+toiata
+operatoriata = dans socair
+
+Verifier que les 3ers caracteres du callsign doit etre egale a operatoricao
+
+flight number  = callsign, operatoricao = caractere de recherche, operatoriata = caractere de remplacement
+
+operatoricao = 3caracteres
+icao airports = 4 caracteres
+
+Si icao manquant, le signaler ds un fichier txt
+    pr toutes les tables
+
+UpdatedBy = ""
+nbroutestopsequences ="0"
+vrsrouteid="0"
