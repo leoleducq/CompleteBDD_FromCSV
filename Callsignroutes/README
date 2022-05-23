@@ -1,0 +1,20 @@
+!NE RIEN SUPPRIMER!
+
+Dans Error :
+    -> errorData.txt : lorsqu'une donnée n'est pas au bon format / n'est pas valable
+    -> errorSql.txt : Erreur lors de la requête SQL
+    -> missingAirports.txt : L'aéroport n'existe pas dans la BDD
+    -> missingSocair.txt : Le socair n'existe pas dans la BDD
+
+Dans Modules :
+    Toutes les fonctions dont se sert main.py
+    -> connect.py : Connections au serveur SQL
+    -> exception.py : Gestion des erreurs
+    -> unidecode.py : Enlève les caractères à risques et met tout en MAJUSCULE
+    -> verif.py : Permet de vérifier que les données sont correctes
+
+Dans Txt :
+    -> routes.tsv : liste de tous les callsignsroutes à insérer
+    -> instructions : règles à respecter
+
+Exécuter le main.py
