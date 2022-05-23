@@ -1,0 +1,6 @@
+callsign : TAY41G | operatoricao : TAY | fromairporticao : LFLL | toairporticao : N460 
+callsign : TSC303 | operatoricao : TSC | fromairporticao : CYJT | toairporticao : N445 
+callsign : TAY41G | operatoricao : TAY | fromairporticao : LFLL | toairporticao : N460 
+callsign : TSC303 | operatoricao : TSC | fromairporticao : CYJT | toairporticao : N445 
+callsign : TAY41G | operatoricao : TAY | fromairporticao : LFLL | toairporticao : N460 
+callsign : TSC303 | operatoricao : TSC | fromairporticao : CYJT | toairporticao : N445 
